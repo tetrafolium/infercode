@@ -111,7 +111,7 @@ setuptools == 50.3.0.post20201006
 # infercode/old_version/utils/data/tree_loader.py: 16
 # infercode/old_version/utils/network/base_layer.py: 2
 # infercode/old_version/utils/network/infercode_network.py: 2
-tensorflow == 2.4.0
+tensorflow == 2.15.0
 
 # infercode/dist/infercode-0.0.13/infercode/client/base_client.py: 21
 # infercode/dist/infercode-0.0.13/infercode/data_utils/data_loader.py: 1
